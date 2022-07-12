@@ -4,7 +4,7 @@ public abstract class AbstractStudy {
 
 	public static void main(String[] args) 
 	{
-		
+		System.out.println("This is change for git ");
 
 	}
 	public void v1()
@@ -19,5 +19,7 @@ public abstract class AbstractStudy {
 	{
 		
 	}
+    
 
 }
+
