@@ -29,10 +29,10 @@ public class test {
 		System.out.println("Lower = "+lower);
 		System.out.println("Upper = "+upper);
 		
-		//v1();
+		v1();
 
 	}
-/*	public static void v1()
+	public static void v1()
 	{
 		char a;
 		int b;
@@ -40,7 +40,7 @@ public class test {
 		{
 			System.out.print(b);
 			System.out.println((char)b+" = "+b);
-		}*/
+		}
 	}
 
-//}
+}

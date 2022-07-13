@@ -21,6 +21,7 @@ public class pattrn6 {
 			star--;
 		}
 		}
+		
 	}
 
 }
